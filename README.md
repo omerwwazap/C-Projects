@@ -1,4 +1,3 @@
-# Learning-C
-C Notes and Projects
+# C Notes & Project
 
-Will be updated after final exams
+Will be updated soon
