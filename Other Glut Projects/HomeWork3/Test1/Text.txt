@@ -1,0 +1,33 @@
+//float dx = t.center.x - fr.pos.x;
+	//float dy = t.center.y - fr.pos.y;
+	//float d = sqrt(dx*dx + dy*dy);
+	//return d <= t.radius;
+
+	/*float dx = ball.r[0] * cos(angle * D2R) - fr.pos.x;
+	float dy = ball.r[0] * sin(angle*D2R) - fr.pos.y;
+	float d1 = sqrt(dx*dx + dy*dy);
+	return d1 <= 10;
+
+	float dx2 = ball.r[1] * cos(angle * D2R) - fr.pos.x;
+	float dy2 = ball.r[1] * sin(angle*D2R) - fr.pos.y;
+	float d2 = sqrt(dx2*dx2 + dy2*dy2);
+	return d2 <= 15;
+
+	float dx3 = ball.r[2] * cos(angle * D2R) - fr.pos.x;
+	float dy3 = ball.r[2] * sin(angle*D2R) - fr.pos.y;
+	float d3 = sqrt(dx3*dx3 + dy3*dy3);
+	return d3 <= 13;*/
+
+	/*for (int i = 0; i < MAX_FIRE; i++)
+	{
+		if (fr.active == true)
+		{
+			float dx = t.center.x - fr.pos.x;
+			float dy = t.center.y - fr.pos.y;
+			float d = sqrt(dx*dx + dy*dy);
+
+			if (d <= fr.radius + t.radius)
+				t.hit = true;
+			return d;
+		}
+	}*/
