@@ -1,0 +1,21 @@
+﻿  WOW.cpp
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(82): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(101): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(117): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(214): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(219): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(229): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(242): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(243): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(244): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(376): error C2143: syntax error: missing ')' before 'constant'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(376): error C2059: syntax error: ')'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(377): error C2146: syntax error: missing ';' before identifier 'printf'
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(377): error C2065: 'px': undeclared identifier
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(377): error C2065: 'py': undeclared identifier
+c:\users\21702600\downloads\ctis-164-c+glut-okyaysay\inlabstudentmadeusewithcaution\microwave project\164 microwave\wow.cpp(420): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
